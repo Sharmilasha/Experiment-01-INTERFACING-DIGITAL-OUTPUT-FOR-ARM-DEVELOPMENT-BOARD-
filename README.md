@@ -83,7 +83,10 @@ The main features of LPC2148 include the following.
 
 
 ## Output  :
- 
+LED ON
+ ![pm 2](https://user-images.githubusercontent.com/94506182/227245876-0a6981ee-c0ee-420c-a9fc-1fdff0637ef0.png)
+LED OFF
+
  
  
  
